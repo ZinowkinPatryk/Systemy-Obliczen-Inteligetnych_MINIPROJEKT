@@ -1,0 +1,3 @@
+
+class ResultsManager:
+    pass

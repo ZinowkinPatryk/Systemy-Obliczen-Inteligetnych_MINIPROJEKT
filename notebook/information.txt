@@ -1,0 +1,15 @@
+Jak wygląda dataset:
+DatasetDict({
+    train: Dataset({
+        features: ['image', 'label', 'image_id'],
+        num_rows: 16200
+    })
+    validation: Dataset({
+        features: ['image', 'label', 'image_id'],
+        num_rows: 5400
+    })
+    test: Dataset({
+        features: ['image', 'label', 'image_id'],
+        num_rows: 5400
+    })
+})
