@@ -1,15 +1,11 @@
-# Deep Learning & Transfer Learning
 torch==2.15.0
+torchinfo==1.8.0
 torchvision==0.29.2
 timm==1.0.31
-
-# Zbiór danych (Hugging Face) i przetwarzanie
 datasets==5.2.0
 Pillow==13.0.0
 numpy>=2.1.0
 pandas==3.1.1
-
-# Ewaluacja i wizualizacja
 scikit-learn==1.9.1
 matplotlib==3.11.2
 seaborn==0.13.2
